@@ -1,0 +1,27 @@
+.backendsettingform{width:70%;}
+.backendset_form .ccleft label {float: left;margin-right: 2px;margin-top: -3px;}
+.backendset_form .ccleft {float: left;width: 10%;}
+.backendset_form .submitclass{float:left; width:100%;}
+.backendset_form .form-field{float:left;width:100%;}
+.backendset_form .form-field .labelfrm{float:left; width:15%;}
+.backendset_form .form-field .inputfrm{float:left; width:30%;}
+.backendset_form .form-field span.desc {float: left;width: 100%;font-size: 11px;}
+.backendset_form .labelfrm label{font-weight:bold;}
+.backendsubmit{width: 20%;padding: 5px;background: #f23d10;color: #fff;border: 0;font-weight: bold;font-size:15px;}
+.backendsubmit:hover{opacity:0.9;}
+.toggledatadv{text-align:center;}
+.toggledatadv h2{border:none !important; padding:5px !important; margin:0;}
+.toggledatadv h2::after,.toggledatadv h2::before{border:none !important;}
+.toggledatadv h3{margin:0 !important; text-align:center; padding:0;text-transform: unset;}
+.mynftsetting a {padding: 20px 90px !important;font-size: 24px !important;background-color:#f23d10}
+.mynftsetting{text-align:center;}
+.toggledatadv .errormsghere {float: left;width: 100%;padding-top: 10px;color: #d33007;font-size: 20px;}
+.buttonholderspn{float:left;width:100%;}
+.buttonholderspn .spanbtn{border: 1px solid;background: transparent;color: #fff;font-weight: normal;padding: 7px;font-size: 11px;}
+.com_info {text-align: left;font-family: "Montserrat",sans-serif;border: 2px solid #d33007;border-radius: 10px;padding: 20px 20px 15px;margin-top: 20px;}
+.com_info h2 {color: #d33007 !important;text-transform: capitalize !important;font-size: 30px;padding: 0 !important;}
+.com_info h3 {color: #fff;text-align: left;font-size: 16px;font-weight: normal;margin: 10px 0 20px !important;font-family: "Montserrat",sans-serif; line-height: 22px;}
+.hrline{float:left;width:100%;}
+@media only screen and (max-width: 767px) {
+	.wp-block-button.mynftsetting .wp-block-button__link {width: auto;}
+}
